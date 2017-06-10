@@ -1,0 +1,7 @@
+Total completion time 1.421610
+Thread 0completion time 1.389324
+Thread 1completion time 1.389308
+Thread 2completion time 1.389579
+Thread 3completion time 1.389573
+Thread 4completion time 1.421548
+Thread 5completion time 1.421549

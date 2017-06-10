@@ -1,0 +1,150 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Thread number : 1\
+request number : 940\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs22 \cf0 \CocoaLigature0 Maximum connect burst length: 1\
+\
+Total: connections 940 requests 940 replies 940 test-duration 7.204 s\
+\
+Connection rate: 130.5 conn/s (7.7 ms/conn, <=2 concurrent connections)\
+Connection time [ms]: min 5.4 avg 7.7 max 102.5 median 6.5 stddev 4.3\
+Connection time [ms]: connect 3.9\
+Connection length [replies/conn]: 1.000\
+\
+Request rate: 130.5 req/s (7.7 ms/req)\
+Request size [B]: 92.0\
+\
+Reply rate [replies/s]: min 128.6 avg 128.6 max 128.6 stddev 0.0 (1 samples)\
+Reply time [ms]: response 3.7 transfer 0.0\
+Reply size [B]: header 44.0 content 0.0 footer 0.0 (total 44.0)\
+Reply status: 1xx=0 2xx=98 3xx=0 4xx=842 5xx=0\
+\
+CPU time [s]: user 0.73 system 6.41 (user 10.1% system 89.0% total 99.1%)\
+Net I/O: 17.4 KB/s (0.1*10^6 bps)\
+\
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0\
+Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0\
+\
+Session rate [sess/s]: min 128.59 avg 130.47 max 128.59 stddev 0.00 (940/940)\
+Session: avg 1.00 connections/session\
+Session lifetime [s]: 0.0\
+Session failtime [s]: 0.0\
+Session length histogram: 0 940\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \CocoaLigature1 Thread number : 2\
+request number : 940\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs22 \cf0 \CocoaLigature0 Maximum connect burst length: 1\
+\
+Total: connections 940 requests 940 replies 940 test-duration 7.011 s\
+\
+Connection rate: 134.1 conn/s (7.5 ms/conn, <=2 concurrent connections)\
+Connection time [ms]: min 5.4 avg 7.5 max 67.8 median 6.5 stddev 3.1\
+Connection time [ms]: connect 3.7\
+Connection length [replies/conn]: 1.000\
+\
+Request rate: 134.1 req/s (7.5 ms/req)\
+Request size [B]: 92.0\
+\
+Reply rate [replies/s]: min 135.8 avg 135.8 max 135.8 stddev 0.0 (1 samples)\
+Reply time [ms]: response 3.7 transfer 0.0\
+Reply size [B]: header 44.0 content 0.0 footer 0.0 (total 44.0)\
+Reply status: 1xx=0 2xx=98 3xx=0 4xx=842 5xx=0\
+\
+CPU time [s]: user 0.70 system 6.27 (user 10.0% system 89.4% total 99.4%)\
+Net I/O: 17.9 KB/s (0.1*10^6 bps)\
+\
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0\
+Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0\
+\
+Session rate [sess/s]: min 135.80 avg 134.08 max 135.80 stddev 0.00 (940/940)\
+Session: avg 1.00 connections/session\
+Session lifetime [s]: 0.0\
+Session failtime [s]: 0.0\
+Session length histogram: 0 940\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \CocoaLigature1 Thread number : 3\
+request number : 940\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs22 \cf0 \CocoaLigature0 Maximum connect burst length: 1\
+\
+Total: connections 940 requests 940 replies 940 test-duration 7.952 s\
+\
+Connection rate: 118.2 conn/s (8.5 ms/conn, <=2 concurrent connections)\
+Connection time [ms]: min 5.4 avg 8.5 max 1007.3 median 6.5 stddev 32.9\
+Connection time [ms]: connect 4.8\
+Connection length [replies/conn]: 1.000\
+\
+Request rate: 118.2 req/s (8.5 ms/req)\
+Request size [B]: 92.0\
+\
+Reply rate [replies/s]: min 112.0 avg 112.0 max 112.0 stddev 0.0 (1 samples)\
+Reply time [ms]: response 3.7 transfer 0.0\
+Reply size [B]: header 44.0 content 0.0 footer 0.0 (total 44.0)\
+Reply status: 1xx=0 2xx=98 3xx=0 4xx=842 5xx=0\
+\
+CPU time [s]: user 0.80 system 7.11 (user 10.0% system 89.4% total 99.4%)\
+Net I/O: 15.8 KB/s (0.1*10^6 bps)\
+\
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0\
+Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0\
+\
+Session rate [sess/s]: min 111.99 avg 118.21 max 111.99 stddev 0.00 (940/940)\
+Session: avg 1.00 connections/session\
+Session lifetime [s]: 0.0\
+Session failtime [s]: 0.0\
+Session length histogram: 0 940\
+\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \CocoaLigature1 Thread number : 4\
+request number : 940\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs22 \cf0 \CocoaLigature0 Maximum connect burst length: 1\
+\
+Total: connections 940 requests 940 replies 940 test-duration 6.912 s\
+\
+Connection rate: 136.0 conn/s (7.4 ms/conn, <=2 concurrent connections)\
+Connection time [ms]: min 5.3 avg 7.4 max 69.1 median 6.5 stddev 3.1\
+Connection time [ms]: connect 3.7\
+Connection length [replies/conn]: 1.000\
+\
+Request rate: 136.0 req/s (7.4 ms/req)\
+Request size [B]: 92.0\
+\
+Reply rate [replies/s]: min 134.6 avg 134.6 max 134.6 stddev 0.0 (1 samples)\
+Reply time [ms]: response 3.7 transfer 0.0\
+Reply size [B]: header 44.0 content 0.0 footer 0.0 (total 44.0)\
+Reply status: 1xx=0 2xx=98 3xx=0 4xx=842 5xx=0\
+\
+CPU time [s]: user 0.70 system 6.17 (user 10.1% system 89.3% total 99.4%)\
+Net I/O: 18.2 KB/s (0.1*10^6 bps)\
+\
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0\
+Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0\
+\
+Session rate [sess/s]: min 134.59 avg 135.99 max 134.59 stddev 0.00 (940/940)\
+Session: avg 1.00 connections/session\
+Session lifetime [s]: 0.0\
+Session failtime [s]: 0.0\
+Session length histogram: 0 940\
+\
+}
